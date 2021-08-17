@@ -9,7 +9,7 @@
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="https://source.codeaurora.org/external/imx" name="CAF" />
-  <remote fetch="ssh://git@github.com:DrinkTeaTeam" name="tea" />
+  <remote fetch="ssh://git@github.com/DrinkTeaTeam" name="tea" />
   <remote fetch="https://github.com/ShiauweiZhao" name="xw" />
 
   <project remote="yocto" revision="f5da2a5913319ad6ac2141438ba1aa17576326ab" name="poky" path="sources/poky"/>
